@@ -8,7 +8,6 @@ Mais de 16 anos construindo e mantendo sistemas em produção, liderando times s
 - Líder técnico de uma plataforma de proteção contra DDoS que enfrentou ataques acima de **1 Tbps** contra bancos e operadoras (C#/.NET, Angular, Azure Service Bus)
 - Plataforma de vendas ao vivo com mais de **8 milhões de transações em 4 horas** (ASP.NET, Azure)
 - **50+ sistemas em produção** em ERP, fintech, saúde, operações de campo e gestão laboratorial
-- CTO fracionado de uma empresa de dados de solo desde 2022: arquitetura multi-tenant, geoprocessamento e integração com a API federal Embrapa/ZARC
 
 **Stack**
 
